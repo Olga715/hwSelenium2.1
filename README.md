@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wd9y9ai20xvr0dqr?svg=true)](https://ci.appveyor.com/project/Olga715/hwselenium2-1)
